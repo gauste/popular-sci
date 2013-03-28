@@ -1,4 +1,4 @@
 popular-sci
 ===========
 
-Predict the next big thing in research.
+Predict the next big thing in research now.
